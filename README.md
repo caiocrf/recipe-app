@@ -75,7 +75,6 @@ Neste projeto, podemos trabalhar principalmente as seguintes habilidades comport
   
   * React
   * React Testing Library
-  *  <a href="https://www.figma.com/file/9WXNFMewKRBC5ZawU1EXYG/%5BProjeto%5D%5BFrontend%5D-Recipes-App?node-id=0-1" target="_blank"> Figma </a>	
   * React Hooks
   * Componentes Funcionais
   * Context API
