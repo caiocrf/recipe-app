@@ -22,9 +22,6 @@ Este foi um projeto em grupo de 5 pessoas, nós desenvolvemos um app de receitas
 
 - Compartilhar a receita com amigos;
 
- <i>OBS:O css está otimizado pra mobile. Recomendo a extensão "Simulador de Celular" do chrome caso queira simualar um sistema mobile.</i>
-
-
 ![logo Recipes App](https://user-images.githubusercontent.com/14060102/225666859-12c735b1-e998-459f-98d2-2f9c9e313a47.png)
 
 
