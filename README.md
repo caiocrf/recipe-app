@@ -1,6 +1,6 @@
 ## Descrição :envelope_with_arrow:
 
-Este foi um projeto em grupo de 5 pessoas, nós desenvolvemos um app de receitas 🥪🌯  com direcionamento ao mobile first, o objetivo era desenvolver uma aplicação em que poderiamos:
+Este foi um projeto em grupo de 6 pessoas, nós desenvolvemos um app de receitas 🥪🌯  com direcionamento ao mobile first, o objetivo era desenvolver uma aplicação em que poderiamos:
 
 
 
